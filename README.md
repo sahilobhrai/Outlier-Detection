@@ -9,12 +9,12 @@ An outlier is a data point in a data set that is distant from all other observat
 - Variability in the data
 - An experimental measurement error
 
-## What are the impacts of having outliers in a dataset?
-- It causes various problems during our statistical analysis
-- It may cause a significant impact on the mean and the standard deviation
-
 ## Various ways of finding the outlier.
 - Using scatter plots
 - Box plot
 - using z score
 - using the IQR interquantile range
+
+## What are the impacts of having outliers in a dataset?
+- It causes various problems during our statistical analysis
+- It may cause a significant impact on the mean and the standard deviation
